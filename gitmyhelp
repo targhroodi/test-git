@@ -2,7 +2,6 @@ git status for check state git
 git add .
 git add filename
 git commit -m "massage"
-git log
 sh1= hash number for every commit
 git log --oneline -5
 
