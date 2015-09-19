@@ -11,3 +11,4 @@ git remote -v
 git push -u origin master
 git pull
 git clone "addressclone"
+#change file in editor github site for test pull command
