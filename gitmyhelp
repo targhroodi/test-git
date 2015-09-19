@@ -3,7 +3,7 @@ git add .
 git add filename
 git commit -m "massage"
 git log
-sh1 hash number for every commit
+sh1= hash number for every commit
 git log --oneline -5
 
 git remote add origin https://github.com/targhroodi/test-git.git
@@ -12,3 +12,6 @@ git push -u origin master
 git pull
 git clone "addressclone"
 #change file in editor github site for test pull command
+git branch =list branch of repository
+git branch "new branch"
+git checkout "namebranch"
