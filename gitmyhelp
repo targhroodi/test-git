@@ -1,1 +1,4 @@
 git status for check state git
+git add .
+git add filename
+git commit -m "massage"
