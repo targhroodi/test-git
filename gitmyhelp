@@ -5,3 +5,6 @@ git commit -m "massage"
 git log
 sh1 hash number for every commit
 git log --oneline -5
+
+git remote add origin https://github.com/targhroodi/test-git.git
+git remote -v
