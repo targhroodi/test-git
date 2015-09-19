@@ -8,3 +8,6 @@ git log --oneline -5
 
 git remote add origin https://github.com/targhroodi/test-git.git
 git remote -v
+git push -u origin master
+git pull
+git clone "addressclone"
