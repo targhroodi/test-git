@@ -15,3 +15,4 @@ git clone "addressclone"
 git branch =list branch of repository
 git branch "new branch"
 git checkout "namebranch"
+git push orgin "name branch"=use without u for not important branch
